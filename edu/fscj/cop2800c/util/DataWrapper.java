@@ -1,6 +1,6 @@
 // DataWrapper.java
-// D. Singletary
-// 3/14/25
+// Dan Rojas
+// 8/15/26
 // Generic data wrapper class
  
 package edu.fscj.cop2800c.util;

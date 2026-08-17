@@ -1,6 +1,6 @@
-// PalmerPenguins.java
-// D. Singletary
-// 3/14/25
+// PalmerPeng8uins.java
+// Dan Rojas
+// 8/15/26
 // Palmer Penguins application
 
 package edu.fscj.cop2800c.penguin;

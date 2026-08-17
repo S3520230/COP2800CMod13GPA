@@ -1,7 +1,7 @@
 // InvalidBirdDataException.java
-// D. Singletary
-// 3/29/25
-// Custom exception for Palmer Penguin data
+// Dan Rojas
+// 8/15/26
+// Custom excep6tion for Palmer Penguin data
 
 package edu.fscj.cop2800c.penguin;
 
